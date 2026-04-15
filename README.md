@@ -7,8 +7,8 @@
 | Field | Details |
 |-------|---------|
 | **Problem** | CN ORANGE PROBLEM NO 8 |
-| **Student Name** | _________________________ |
-| **SRN (Student Registration Number)** | _________________________ |
+| **Student Name** | Swara Potdar |
+| **SRN (Student Registration Number)** | PES1UG24CS487 |
 | **Submission Date** | April 2026 |
 
 ---
