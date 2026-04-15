@@ -308,7 +308,7 @@ All proof of execution artifacts have been captured and stored in the `screensho
 ![Mininet Topology Startup](screenshots/topology_start.png)
 
 #### 2. Flow Table Analysis
-![Switch Flow Table](screenshots/table.png)
+![Switch Flow Table](screenshots/final.png)
 
 #### 3. Scenario 1: Allowed Traffic (Learning Switch)
 ![Ping Success - h1 to h2](screenshots/allowed_h1_h2_ping.png)
